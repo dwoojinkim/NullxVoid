@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dab04b0699908284a9f5bd8c3a75d670
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Chargeup1: {fileID: 8300000, guid: 9312b9c77faf4df4294828ab0ade7b21, type: 3}
+  - Chargeup2: {fileID: 8300000, guid: 330c8f2221ca9c646aaf7a66155f3455, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
